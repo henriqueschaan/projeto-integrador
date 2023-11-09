@@ -9,6 +9,12 @@ Web app desenvolvido para o Projeto Integrador (4º semestre - TADS e TSI - SENA
 - HENRIQUE CHEVRAND WEISS
 - HENRIQUE SCHAAN FERNANDES
 
+## Pré-requisitos
+
+Certifique-se de você tenha instalados:
+- Node.js
+- npm
+
 ## Instalação:
 
 Para instalar as dependências, execute:
